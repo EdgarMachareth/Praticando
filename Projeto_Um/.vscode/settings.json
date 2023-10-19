@@ -1,0 +1,8 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "liveServer.settings.multiRootWorkspaceName": "Projeto 1",
+    "editor.fontFamily": "Fira Code"
+}

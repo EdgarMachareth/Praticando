@@ -1,0 +1,7 @@
+salario = input('Quanto vocë recebe por mês? ')
+horas = input('E quantas horas você trabalha mensalmente? ')
+print(salario)
+print(horas)
+salario_vezes_hora = int(salario) / int(horas)
+salario_hora = int(salario_vezes_hora)
+print('Então você recebe', salario_hora,'reais por hora !')
